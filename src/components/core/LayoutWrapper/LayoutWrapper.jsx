@@ -1,7 +1,7 @@
 import { Box } from "@chakra-ui/react";
 import React from "react";
-import Header from "../Header/index";
-import Footer from "../Footer/index";
+import Header from "../Header/Index"
+import Footer from "../Footer/Index";
 const LayoutWrapper = ({ children }) => {
   return (
     <Box
